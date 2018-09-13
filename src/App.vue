@@ -24,7 +24,7 @@
     export default {
         data() {
             return {
-                inputCountry: 'France',
+                inputCountry: '',
                 noBorders: false,
                 borderingCountries: [],
                 countryNames: [],
